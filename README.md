@@ -45,14 +45,15 @@ Además, el sitio incluye una **visualización experimental de focos de incendio
 <p align="center">
   <img src="/Fotos/FireSense.jpeg" alt="Primer prototipo de FireSense" width="300"> 
 </p>
+
 ## Avances del proyecto:
 Dentro de este repositorio se encontraran todos los avances realizados en estos meses de trabajo:
 
 Comunicación LoRa
--Localización GPS
--Estructura MVP1
--Datos satelitales
--APP comunicación dashword ambientales poste 1.
+- Localización GPS
+- Estructura MVP1
+- Datos satelitales
+- APP comunicación dashword ambientales poste 1.
 
 
 ## ¿Como ayudar?
