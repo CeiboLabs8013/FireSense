@@ -40,7 +40,7 @@ La "columna FireSense" es un dispositivo modular basado en **ESP32**, pensado pa
 | **Sensores ambientales** | Viento (velocidad/dirección), temperatura y humedad (ambiente y suelo), para estimar riesgo y propagación. |
 | **GPS** | Georreferencia el foco de incendio con precisión, alimentando mapas de riesgo. |
 | **Panel solar + baterías** | Energía autónoma, con respaldo para operar de noche o en días nublados. |
-
+![Aqui podemos visualizar el primer prototipo de FireSense](/Fotos/FireSense.jpg)
 Además, el sitio incluye una **visualización experimental de focos de incendio en Argentina**, usando datos satelitales de **NASA FIRMS** (satélite **VIIRS**), actualizados periódicamente.
 
 ## Avances del proyecto:
