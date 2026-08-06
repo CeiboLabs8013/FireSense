@@ -48,8 +48,7 @@ Además, el sitio incluye una **visualización experimental de focos de incendio
 
 ## Avances del proyecto:
 Dentro de este repositorio se encontraran todos los avances realizados en estos meses de trabajo:
-
-Comunicación LoRa
+- Comunicación LoRa
 - Localización GPS
 - Estructura MVP1
 - Datos satelitales
