@@ -44,7 +44,7 @@ La "columna FireSense" es un dispositivo modular basado en **ESP32**, pensado pa
 Además, el sitio incluye una **visualización experimental de focos de incendio en Argentina**, usando datos satelitales de **NASA FIRMS** (satélite **VIIRS**), actualizados periódicamente.
 
 <p align="center">
-  <img src="/Fotos/FireSense.jpeg" alt="Primer prototipo de FireSense" width="300">
+  <img src="/Fotos/FireSense.jpeg" alt="Primer prototipo de FireSense" width="300"> 
 </p>
 ## Avances del proyecto:
 Dentro de este repositorio se encontraran todos los avances realizados en estos meses de trabajo:
